@@ -7,6 +7,8 @@ public class Exifelse {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//Código para avaliação de notas
+		
 		Scanner sc = new Scanner(System.in);
 
 		Double nota;
