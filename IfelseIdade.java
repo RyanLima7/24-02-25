@@ -2,10 +2,12 @@ package src;
 
 import java.util.Scanner;
 
-public class ifelse {
+public class IfelseIdade {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		//Código para ver a sua idade e declarar se é um idoso ou criança.
 
 		Scanner sc = new Scanner(System.in);
 
