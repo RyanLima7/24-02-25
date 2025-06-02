@@ -2,10 +2,12 @@ package src;
 
 import java.util.Scanner;
 
-public class exifelseano {
+public class ExifelseAno {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		//Código para ver se é ou não, um ano bissexto
 
 		Scanner scanner = new Scanner(System.in);
 
