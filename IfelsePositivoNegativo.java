@@ -2,10 +2,12 @@ package projeto01;
 
 import java.util.Scanner;
 
-public class ifelsepositivo_negativo {
+public class IfelsePositivoNegativo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		//Código para ver se o número é positivo, negativo ou se é igual a zero.
 
 		Scanner sc = new Scanner(System.in);
 
