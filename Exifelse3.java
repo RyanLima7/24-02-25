@@ -2,10 +2,12 @@ package src;
 
 import java.util.Scanner;
 
-public class exifelse3 {
+public class Exifelse3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		//Código para ver quais são os números em ordem crescente
 
 		Scanner sc = new Scanner(System.in);
 
