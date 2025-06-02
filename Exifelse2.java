@@ -2,10 +2,12 @@ package src;
 
 import java.util.Scanner;
 
-public class exifelse2 {
+public class Exifelse2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		//Código para ver qual número é maior
 
 		Scanner sc = new Scanner(System.in);
 
